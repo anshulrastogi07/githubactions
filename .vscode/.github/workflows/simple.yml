@@ -10,4 +10,4 @@ jobs:
       - name: echo a string
         run: echo "Hello World"
       - name: multiline script
-        run: "node -v \n npm -v\n"          
+        run: "node -v \n npm -v \n"          
