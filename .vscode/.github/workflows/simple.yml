@@ -4,7 +4,6 @@ on: [push]
 
 jobs:
   run-shell-command:
-    environment: test
     runs-on: ubuntu-latest
     steps:
       - name: echo a string
