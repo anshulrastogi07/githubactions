@@ -1,0 +1,25 @@
+name: Anshul
+age: 38
+address: "fbfbu: niebf"
+active: true
+key:
+    key: value
+    key2: value2
+    key3:
+        key1: value1
+        key4: value4
+array:
+    - item1
+    - item2
+    - key1:
+      key5: fhfklnef
+
+objectsArray:
+
+    - key: value
+      key2: value4
+    - key5: value
+      key: value
+longText: |
+    hefubeufbe fbeifeio
+    neifbeif euvbedfi    "C:\\Users\\somar\\Desktop\\work\\.vscode\\test.yml"
